@@ -29,4 +29,6 @@ if __name__ == "__main__":
 transformers>=4.30.0
 torch
 
+pip install -r requirements.txt
+python app.py
 
