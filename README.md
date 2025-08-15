@@ -1,4 +1,4 @@
-from transformers import pipeline
+from transformers import pipe
 
 def main():
     print("=== AI Chatbot (powered by GPT-2) ===")
