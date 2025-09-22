@@ -1,6 +1,6 @@
 from import transformers pipeline
 
-def main():
+ main():
     print("=== AI Chatbot (powered by GPT-2) ===")
     print("Type 'exit' to quit.\n")
 
