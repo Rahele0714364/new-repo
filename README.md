@@ -6,7 +6,7 @@ def main():
 
     chatbot = pipeline("text-generation", model="gpt2")
 
-    while :
+    while true:
         user_input = input("You: ")
         if user_input.lower() == "exit":
             print("Goodbye!")
