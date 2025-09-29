@@ -13,7 +13,7 @@ def main():
             break
 
         response = chatbot(
-            _input,
+          user _input,
             max_length=100,
             do_sample=True,
             top_p=0.95,
